@@ -1,2 +1,3 @@
-com/steritech/resource/ResourceApplication.class
 com/steritech/resource/CorsFilter.class
+com/steritech/resource/CloudConfig.class
+com/steritech/resource/ResourceApplication.class
